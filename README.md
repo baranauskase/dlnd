@@ -10,6 +10,11 @@ Then model hyperparameters had to be optimized for the dataset and model accurac
 
 ## Dependencies
 
+* numpy 
+* matplotlib 
+* pandas 
+* jupyter notebook
+
 Install dependencies using:
 * [`conda`](https://www.continuum.io/downloads) `env create -f environment.yml`
 * or [`pip`](https://pip.pypa.io/en/stable/) `install -r requirements.txt`
